@@ -1,0 +1,1 @@
+export const numberToPercentage = (number: number) => `${number*100}%`
